@@ -376,3 +376,4 @@ Configuration:
 	CFLAGS               : ${CFLAGS}
 
 Type make to build opensn0w, and make install to install it."
+make
